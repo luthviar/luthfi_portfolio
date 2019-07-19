@@ -1,3 +1,6 @@
+# Portfolio of Luthfi Abdurrahim ([profile](https://www.linkedin.com/in/luthfi-ar))
+
+## WORKED 18 IT PROJECTS
 
 - **Quran Quiz App** (2019). It is a quiz app for quran, I developed by myself with flutter for front end android and laravel PHP for the backend API. The app is live in this [link](https://play.google.com/store/apps/details?id=com.gotongroyong.quranquiz). 
 - **Online Teacher Pintaar.com** (2019). I teach online about Vue JS through video in this platform, the link is here.
